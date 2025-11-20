@@ -1,6 +1,7 @@
 EquiLife
 
 ## Behance Project Link
+https://www.behance.net/gallery/238926011/Equilife-UiUx-Case-Study
 
 ## Figma Project Link
 https://www.figma.com/design/O0jtn3CmuoHjyCzhSa7G2u/G567_P2?node-id=1322-4069&t=IgB3zTMAXtZC0KNq-1
